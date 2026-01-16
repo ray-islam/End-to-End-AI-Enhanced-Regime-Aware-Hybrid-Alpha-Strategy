@@ -1,0 +1,6 @@
+{
+  "ticker": "AAPL",
+  "start": "2025-01-01",
+  "end": "2025-12-31",
+  "objective": "Predict next-week (5 trading days) return; weekly rebalance; long-only; hybrid trend+reversion+sentiment with regime gating."
+}
